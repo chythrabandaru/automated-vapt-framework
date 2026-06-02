@@ -1,4 +1,5 @@
 # Automated VAPT Framework for Web Applications
+[![CI](https://github.com/chythrabandaru/automated-vapt-framework/actions/workflows/ci.yml/badge.svg)](https://github.com/chythrabandaru/automated-vapt-framework/actions/workflows/ci.yml)
 
 > **92% OWASP Top 10 detection rate · 70% reduction in manual reporting effort · Formally adopted by SecureNest Technologies as standard assessment pipeline**
 
